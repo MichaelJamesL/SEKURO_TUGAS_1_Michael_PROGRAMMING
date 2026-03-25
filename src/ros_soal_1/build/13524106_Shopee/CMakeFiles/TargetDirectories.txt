@@ -1,0 +1,11 @@
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/uninstall.dir
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/13524106_Shopee_uninstall.dir
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/talker.dir
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/listener.dir
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/test.dir
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/edit_cache.dir
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/rebuild_cache.dir
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/list_install_components.dir
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/install.dir
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/install/local.dir
+/home/user/ws_13524106_Honu/build/13524106_Shopee/CMakeFiles/install/strip.dir
