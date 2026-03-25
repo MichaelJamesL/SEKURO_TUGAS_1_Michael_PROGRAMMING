@@ -1,0 +1,3 @@
+/home/user/uro/sekuro/SEKURO_TUGAS_1_Michael_PROGRAMMING/src/cmake_soal/build/CMakeFiles/robot.dir
+/home/user/uro/sekuro/SEKURO_TUGAS_1_Michael_PROGRAMMING/src/cmake_soal/build/CMakeFiles/edit_cache.dir
+/home/user/uro/sekuro/SEKURO_TUGAS_1_Michael_PROGRAMMING/src/cmake_soal/build/CMakeFiles/rebuild_cache.dir

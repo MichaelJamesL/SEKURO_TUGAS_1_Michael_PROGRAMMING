@@ -1,5 +1,5 @@
 
-#include "robotair.hpp"
+#include "../include/robotair.hpp"
 using namespace std;
 RobotAir:: RobotAir(int id, string jenis, int speed, float awal) : Robot(id) {
     this->jenis_robot = jenis;

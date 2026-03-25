@@ -1,6 +1,6 @@
 #include "bits/stdc++.h"
-#include "robot.hpp"
-#include "robotair.hpp"
+#include "../include/robot.hpp"
+#include "../include/robotair.hpp"
 
 using namespace std;
 
